@@ -11,8 +11,8 @@
     <section>
         <h2>Project</h2>
         <ul>
-            <li><a href="https://github.com/username/project1"> elevator design with digital circuit  </a></li>
-            <li><a href="https://github.com/username/project2"> circuit analysis </a></li>
+            <li><a href="https://github.com/youngfess/project1"> elevator design with digital circuit  </a></li>
+            <li><a href="https://github.com/youngfess/project2"> circuit analysis </a></li>
         </ul>
     </section>
     <footer>
